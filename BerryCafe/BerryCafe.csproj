@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A32360D0-2D6A-4B7B-A2CA-BCA9872864FC}</ProjectGuid>
+    <ProjectGuid>{FA1C6805-6B31-4451-9AAB-A7D232E2ACE9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>GoldBadgeLeague</RootNamespace>
     <AssemblyName>GoldBadgeLeague</AssemblyName>
