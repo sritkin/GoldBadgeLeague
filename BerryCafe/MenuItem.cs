@@ -15,16 +15,18 @@ namespace BerryCafe
         public string TasteDescription { get; set; }
         public string Effects { get; set; }
         public int Price { get; set; }
+        public List<string> GrowBerry { get; set; }
 
 
         public MenuItem() { }
-        public MenuItem(int number, string name, string taste, string effects, int price)
+        public MenuItem(int number, string name, string taste, string effects, int price, List<string> grow)
         {
             ItemNumber = number;
             BerryName = name;
             TasteDescription = taste;
             Effects = effects;
             Price = price;
+            GrowBerry = grow;
         }
     }
 }

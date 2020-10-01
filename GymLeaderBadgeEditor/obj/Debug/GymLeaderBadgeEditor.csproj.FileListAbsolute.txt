@@ -1,0 +1,7 @@
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\bin\Debug\GymLeaderBadgeEditor.exe.config
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\bin\Debug\GymLeaderBadgeEditor.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\bin\Debug\GymLeaderBadgeEditor.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\obj\Debug\GymLeaderBadgeEditor.csprojAssemblyReference.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\obj\Debug\GymLeaderBadgeEditor.csproj.CoreCompileInputs.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\obj\Debug\GymLeaderBadgeEditor.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\GymLeaderBadgeEditor\obj\Debug\GymLeaderBadgeEditor.pdb

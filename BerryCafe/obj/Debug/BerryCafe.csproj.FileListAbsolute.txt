@@ -5,3 +5,10 @@ C:\Users\13179\source\repos\GoldBadgeLeague\GoldBadgeLeague\bin\Debug\GoldBadgeL
 C:\Users\13179\source\repos\GoldBadgeLeague\GoldBadgeLeague\bin\Debug\GoldBadgeLeague.pdb
 C:\Users\13179\source\repos\GoldBadgeLeague\GoldBadgeLeague\obj\Debug\GoldBadgeLeague.exe
 C:\Users\13179\source\repos\GoldBadgeLeague\GoldBadgeLeague\obj\Debug\GoldBadgeLeague.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\bin\Debug\GoldBadgeLeague.exe.config
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\bin\Debug\GoldBadgeLeague.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\bin\Debug\GoldBadgeLeague.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\obj\Debug\BerryCafe.csprojAssemblyReference.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\obj\Debug\BerryCafe.csproj.CoreCompileInputs.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\obj\Debug\GoldBadgeLeague.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafe\obj\Debug\GoldBadgeLeague.pdb

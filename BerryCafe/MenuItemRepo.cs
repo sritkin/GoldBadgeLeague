@@ -10,9 +10,9 @@ namespace BerryCafe
     {
         protected readonly List<MenuItem> _itemList = new List<MenuItem>();
         //create
-        public bool AddItemToMenu(int number, string name, string taste, string effects, int price)
+        public bool AddItemToMenu(int number, string name, string taste, string effects, int price, List<string> grow)
         {
-            MenuItem item = new MenuItem(number, name, taste, effects, price);
+            MenuItem item = new MenuItem(number, name, taste, effects, price, grow);
             int startCount = _itemList.Count;
             _itemList.Add(item);
             bool isAdded = (_itemList.Count > startCount) ? true : false;
