@@ -41,6 +41,7 @@ namespace BerryCafe
                         continueToRun = false;
                         break;
                     default:
+                        Console.Clear();
                         Console.WriteLine("Invalid entry.\n\n Press enter to continue:");
                             Console.ReadLine();
                         break;

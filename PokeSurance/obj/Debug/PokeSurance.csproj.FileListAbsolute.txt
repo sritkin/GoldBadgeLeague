@@ -1,0 +1,7 @@
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\bin\Debug\PokeSurance.exe.config
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\bin\Debug\PokeSurance.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\bin\Debug\PokeSurance.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\obj\Debug\PokeSurance.csprojAssemblyReference.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\obj\Debug\PokeSurance.csproj.CoreCompileInputs.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\obj\Debug\PokeSurance.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance\obj\Debug\PokeSurance.pdb
