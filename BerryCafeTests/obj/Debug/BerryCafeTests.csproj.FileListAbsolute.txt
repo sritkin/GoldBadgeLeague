@@ -1,0 +1,17 @@
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\BerryCafeTests.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\BerryCafeTests.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\GoldBadgeLeague.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\GoldBadgeLeague.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\GoldBadgeLeague.exe.config
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\obj\Debug\BerryCafeTests.csprojAssemblyReference.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\obj\Debug\BerryCafeTests.csproj.CoreCompileInputs.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\obj\Debug\BerryCafeTests.csproj.CopyComplete
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\obj\Debug\BerryCafeTests.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\BerryCafeTests\obj\Debug\BerryCafeTests.pdb

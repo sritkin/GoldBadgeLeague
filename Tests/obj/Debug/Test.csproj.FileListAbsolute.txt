@@ -1,7 +1,0 @@
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\bin\Debug\Test.exe.config
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\bin\Debug\Test.exe
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\bin\Debug\Test.pdb
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\obj\Debug\Test.csprojAssemblyReference.cache
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\obj\Debug\Test.exe
-C:\Users\13179\source\repos\GoldBadgeLeague\Test\obj\Debug\Test.pdb

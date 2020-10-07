@@ -1,0 +1,17 @@
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\PokeSurance_Tests.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\PokeSurance_Tests.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\obj\Debug\PokeSurance_Tests.csprojAssemblyReference.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\obj\Debug\PokeSurance_Tests.csproj.CoreCompileInputs.cache
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\obj\Debug\PokeSurance_Tests.csproj.CopyComplete
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\obj\Debug\PokeSurance_Tests.dll
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\obj\Debug\PokeSurance_Tests.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\PokeSurance.exe
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\PokeSurance.pdb
+C:\Users\13179\source\repos\GoldBadgeLeague\PokeSurance_Tests\bin\Debug\PokeSurance.exe.config

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PokeSurance
 {
-    class PokeSuranceUI
+    public class PokeSuranceUI
     {
         private static PokeClaimsRepo _claimsRepo = new PokeClaimsRepo();
         static void Main(string[] args)
@@ -59,7 +59,7 @@ namespace PokeSurance
         {
             Console.Clear();
             Console.WriteLine("Here are the details for the next claim to be handled:");
-            _claimsRepo.WriteClaimHelper();
+            WriteClaimHelper();
             
         }
         private static void EnterNewClaim()
@@ -134,12 +134,50 @@ namespace PokeSurance
             }
             _claimsRepo.MakeNewClaim(claimNumber, typeOfClaim, description, amount, incident, claimDate);
         }
-        private static void DefaultClaims()
+        public static void DefaultClaims()
         {
             _claimsRepo.MakeNewClaim("01", ClaimType.Accident, "Dropped voltorb, damaged patrons", 125000.25, new DateTime(2020, 8, 30), new DateTime(2020, 10, 1));
             _claimsRepo.MakeNewClaim("02", ClaimType.TeamRocket, "Stole 28, pokemon from storage Alpha Charlie 19", 22183000, new DateTime(2020, 7, 30), new DateTime(2020, 8, 1));
             _claimsRepo.MakeNewClaim("03", ClaimType.PokeDmg, "Caterpie evolved inside, string everywhere. Room Inaccessable for 2 weeks.", 18500, new DateTime(2020, 4, 15), new DateTime(2020, 5, 15));
             _claimsRepo.MakeNewClaim("04", ClaimType.PokeInjury, "Employee accidentally kicked skitty across room. Hit voltorb's owner. Caused claim 1.", 500, new DateTime(2020, 10, 1), new DateTime(2020, 10, 1));
+        }
+        private static void WriteClaimHelper()
+        {
+            bool continueClaimHelper = true;
+            while (continueClaimHelper)
+            {
+
+
+                PokeClaims nextClaim = _claimsRepo.toDoList.Peek();
+                Console.WriteLine($"Claim Number: {nextClaim.ClaimNumber}.\n\n" +
+                    $"Type: {nextClaim.ClaimType}.\n\n" +
+                    $"Description: {nextClaim.Description}.\n\n" +
+                    $"Amount: {nextClaim.ClaimAmount}¥.\n\n" +
+                    $"Date of Incident: {nextClaim.DateOfIncident}.\n\n" +
+                    $"Date of Claim: {nextClaim.DateOfClaim}.\n\n" +
+                    $"Is this claim valid: {nextClaim.IsValid}.\n\n" +
+                    $"Do you want to deal with this claim now (y/n)?"); ;
+
+                string input = Console.ReadLine();
+                if (input is "y")
+                {
+                    Console.Clear();
+                    _claimsRepo.toDoList.Dequeue();
+                    Console.WriteLine("Press enter for next claim:");
+                    Console.ReadLine();
+                    Console.Clear();
+
+                }
+                else if (input is "n")
+                {
+                    Console.Clear();
+                    Console.WriteLine("Press enter to return to main menu");
+                    Console.ReadLine();
+                    continueClaimHelper = false;
+                }
+            }
+
+
         }
     }
 }

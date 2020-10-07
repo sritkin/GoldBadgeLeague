@@ -9,7 +9,7 @@ namespace GymLeaderBadgeEditor
     public class BadgeRepo
     {
         //This dictionary models a badge
-        private Dictionary<string, List<int>> leaderAccess = new Dictionary<string, List<int>>();
+        public Dictionary<string, List<int>> leaderAccess = new Dictionary<string, List<int>>();
 
         public void AddBadge(string cityName, List<int> pokeID)
         {

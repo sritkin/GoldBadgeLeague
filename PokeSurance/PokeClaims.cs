@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace PokeSurance
 {
-    enum ClaimType { Accident, PokeDmg, PokeInjury, TeamRocket}
-    class PokeClaims
+    public enum ClaimType { Accident, PokeDmg, PokeInjury, TeamRocket}
+    public class PokeClaims
     {
         public string ClaimNumber { get; set; }
         public ClaimType ClaimType { get; set; }

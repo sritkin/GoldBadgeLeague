@@ -8,7 +8,7 @@ namespace BerryCafe
 {
     public class MenuItemRepo
     {
-        protected readonly List<MenuItem> _itemList = new List<MenuItem>();
+        public List<MenuItem> _itemList = new List<MenuItem>();
         //create
         public bool AddItemToMenu(int number, string name, string taste, string effects, int price, List<string> grow)
         {
